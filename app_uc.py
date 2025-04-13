@@ -17,7 +17,7 @@ logger = logging.getLogger(__name__)
 
 # Configuration - update these paths to match your file locations
 JSON_FILE_PATH = 'merged_data.json'  # Path to your JSON file
-CLIPS_DIRECTORY = 'clips'  # Directory containing all video clips
+CLIPS_DIRECTORY = 'clips/chunks'  # Directory containing all video clips
 FULL_VIDEO_PATH = 'hkairport.mp4'  # Path to the full original video
 FULL_VIDEO_FILENAME = os.path.basename(FULL_VIDEO_PATH)  # Extract just the filename
 TFIDF_MODEL_PATH = 'tfidf_model.pkl'  # Path to store TF-IDF model

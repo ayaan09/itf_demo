@@ -716,7 +716,7 @@ def create_template():
 </head>
 <body>
     <div class="container">
-        <h1 class="mb-4"><i class="fas fa-video me-2"></i>Intelligent Video Search</h1>
+        <h1 class="mb-4"><i class="fas fa-video me-2"></i>Flashlight 2.0 Video Search</h1>
         
         <!-- Search Section -->
         <div class="search-container">
